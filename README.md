@@ -1,4 +1,15 @@
-This project is designed for students preparing for university entrance exams.It calculates the daily number of questions that need to be
-solved based on their net scores in practice tests.
-Additionally, it provides recommendations for supplementary resources and suggests potential universities.
-The aim is to assist students who have limited access to guidance counselors.
+# 📚 Check Your Study
+
+**Technologies:** Java
+
+Check Your Study is a personal education coach application aimed at helping students manage and optimize their learning routines. The app enables users to:
+
+- 📅 Track and organize their lesson schedules easily  
+- ⏰ Analyze total study hours and time distribution  
+- 🎯 Plan study sessions for better productivity  
+- 📈 Get insights to improve their learning habits
+
+This tool is designed to support students in maintaining consistent study habits and achieving their academic goals through smart tracking and planning.
+
+---
+
